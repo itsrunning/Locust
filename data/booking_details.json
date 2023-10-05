@@ -1,0 +1,4 @@
+[
+{"firstname": "Create1","lastname": "Booking1","totalprice": 1111,"depositpaid": "True","bookingdates": {"checkin": "2018-01-01","checkout": "2019-01-01"},"additionalneeds": "Breakfast"},
+{"firstname": "Create2","lastname": "Booking2","totalprice": 2222,"depositpaid": "True","bookingdates": {"checkin": "2019-01-01","checkout": "2019-02-01"},"additionalneeds": "Lunch"}
+]
